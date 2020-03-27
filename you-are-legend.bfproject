@@ -1,13 +1,13 @@
 c2e.convert_special: 0
 e2c.convert_num: 0
 openfiles: /home/aaron/GitHub/you-are-legend/go-home.html:1078:32:0:
-openfiles: /home/aaron/GitHub/you-are-legend/index.html:902:0:0:
+openfiles: /home/aaron/GitHub/you-are-legend/index.html:902:0:1:
 openfiles: /home/aaron/GitHub/you-are-legend/intro.html:1388:16:0:
 openfiles: /home/aaron/GitHub/you-are-legend/investigate-stockroom.html:1428:59:0:
-openfiles: /home/aaron/GitHub/you-are-legend/run-from-zombie.html:1351:16:1:
-openfiles: /home/aaron/GitHub/you-are-legend/style.css:0:0:0:
-openfiles: /home/aaron/GitHub/you-are-legend/talk-to-zombie.html:0:0:0:
-openfiles: /home/aaron/GitHub/you-are-legend/template.html:343:0:0:
+openfiles: /home/aaron/GitHub/you-are-legend/run-from-zombie.html:1351:16:0:
+openfiles: /home/aaron/GitHub/you-are-legend/style.css:611:0:0:
+openfiles: /home/aaron/GitHub/you-are-legend/talk-to-zombie.html:1106:31:0:
+openfiles: /home/aaron/GitHub/you-are-legend/template.html:988:0:0:
 snr_recursion_level: 5
 convertcolumn_horizontally: 0
 adv_open_matchname: 0
@@ -52,7 +52,7 @@ recent_files: file:///home/aaron/GitHub/you-are-legend/style.css
 recent_files: file:///home/aaron/GitHub/you-are-legend/talk-to-zombie.html
 recent_files: file:///home/aaron/GitHub/you-are-legend/template.html
 snr_replacetype: 0
-savedir: file:///home/aaron/GitHub/quarantined
+savedir: file:///home/aaron/GitHub/you-are-legend
 spell_check_default: 1
 spell_insert_entities: 0
 last_filefilter: 
