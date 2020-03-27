@@ -1,8 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Ravi+Prakash&display=swap');
 
+/* Calibrating box model first */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* let the styling begin! */
+
 body {
   background-color: whitesmoke;
   font-family: 'EB Garamond', serif;
+  min-height: 95vh;
 }
 
 #flex-container {
@@ -10,7 +23,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin: 0 auto;
-  height: 100vh;
+  height: 100%;
   padding: 1em 1em;
   background-color: white;
   box-shadow: 1px 1px 10px 1px lightgrey;
@@ -88,14 +101,19 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
+  
+  body {
+    height: 85vh;
+  }
+  
   #flex-container {
     margin: 20px auto;
-    width: 580px;
-    height: 85vh;
-    padding: 2em 5em;
+    width: 720px;
+    padding: 1em 3em;
   }
+  
   img.center {
     width: 576px;
   }
 
-}
+}}
