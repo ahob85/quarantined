@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="flex-container">
-      <header>
+      <header id="header-no-border">
         <h1>You Are Legend</h1>
       </header>
       <main>

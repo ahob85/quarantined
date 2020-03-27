@@ -34,6 +34,10 @@ header {
   text-align: center;
 }
 
+#header-no-border {
+  border-bottom: none;
+}
+
 img.center {
   display: block;
   margin: auto;
@@ -116,4 +120,4 @@ footer {
     width: 576px;
   }
 
-}}
+}
