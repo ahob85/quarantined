@@ -5,29 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta name="author" content="Aaron Hobson" >
-    <title>Quarantined</title>
+    <title>You Are Legend</title>
   </head>
   <body>
-    <header>
-      <p id="location">Grocery Store: Aisles</p>
-    </header>
-    <hr>
-    <main>
-      <section id="narrative">
-        <p>As you place the last box of Rainbow Chocolate Clusterpuffs<sup>TM</sup> on the grocery shelf, you wipe your brow and smile.</p>
-        <p>That concludes another long night stocking the shelves by yourself at Labor Zhou's. Time to go home and play some video games!</p>
-        <p>Then you hear it... <strong>An eerie voice.</strong></p>
-        <p>It appears to be coming from the stockroom in the back of the store.</p>
-      </section>
-      <section id="choices">
-        <p class="choice"><a href="investigate-stockroom.html">Investigate the stockroom.</a></p>
-        <p class="choice"><a href="go-home.html">It's probably nothing. Lock up the store and go home.</a></p>				
-      </section>
-    </main>
-    <hr>
-    <footer>
-      <p id="title-footer"><cite>Quarantined</cite></p>		
-      <p id="restart-footer"><a href="index.html">Restart</a></p>
-    </footer>
+    <div id="flex-container">
+      <header>
+        <p id="location">Grocery Store: Aisles</p>
+      </header>
+      <main>
+        <section id="narrative">
+          <p>As you place the last box of Rainbow Chocolate Clusterpuffs<sup>TM</sup> on the grocery shelf, you wipe your brow and smile.</p>
+          <p>That concludes another long night stocking the shelves by yourself at Labor Zhou's. Time to go home and play some video games!</p>
+          <p>Then you hear it... <strong>An eerie voice.</strong></p>
+          <p>It appears to be coming from the stockroom in the back of the store.</p>
+        </section>
+        <section id="choices">
+          <p class="choice"><a href="investigate-stockroom.html">Investigate the stockroom.</a></p>
+          <p class="choice"><a href="go-home.html">It's probably nothing. Lock up the store and go home.</a></p>				
+        </section>
+      </main>
+      <footer>
+        <p id="title-footer"><cite>You Are Legend</cite></p>		
+        <p id="restart-footer"><a href="index.html">Restart</a></p>
+      </footer>
+    </div>
   </body>
 </html>
