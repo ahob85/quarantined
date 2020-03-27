@@ -15,11 +15,11 @@
       <main>
         <section id="narrative">
           <p>You decide to chat it up with the zombie. You've seen enough zombie movies to know that if it's going to eat you it'll happen regardless.</p>
-          <p class="zombie-speach"><strong><q>Braaaains... Raisin.... Braaaaaains...</q></strong></p>
+          <p class="zombie-speech"><strong><q>Braaaains... Raisin.... Braaaaaains...</q></strong></p>
           <p>Of course! Raisin Brains<sup>TM</sup>, the cornerstone of any nutritious breakfast. You're all out, unfortunately.</p>
-          <p class="zombie-speach"><strong><q>Me... want... cereal!!!</q></strong></p>
+          <p class="zombie-speech"><strong><q>Me... want... cereal!!!</q></strong></p>
           <p>You explain the dilemma to Cereal Zombie.</p>
-          <p class="zombie-speach"><strong><q>Let me join your party... help me... find... RAISIN BRAAAAAINS<sup>TM</sup>... please...</q></strong></p>
+          <p class="zombie-speech"><strong><q>Let me join your party... help me... find... Raisin Braaains<sup>TM</sup>... please...</q></strong></p>
         </section>
         <section id="choices">
           <p class="choice"><a href="template.html">Recruit Cereal Zombie to your <q>party</q>.</a></p>

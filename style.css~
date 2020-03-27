@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Ravi+Prakash&display=swap');
+
 body {
   background-color: whitesmoke;
-  font-family: sans-serif;
+  font-family: 'EB Garamond', serif;
 }
 
 #flex-container {
@@ -23,6 +25,10 @@ img.center {
   display: block;
   margin: auto;
   width: 95%;
+}
+
+main {
+  font-size: 1.2em;
 }
 
 p.center {
@@ -51,6 +57,11 @@ p.center {
   color: red;
 }
 
+.zombie-speech {
+  font-family: 'Ravi Prakash', cursive;
+  text-transform: uppercase;
+}
+
 footer {
   display: flex;
   flex-direction: row;
@@ -64,11 +75,11 @@ footer {
   font-size: small;
 }
 
-#restart-footer a:visited, #restart-footer a:link{
+#restart-footer a:visited, #restart-footer a:link {
   color: black;
 }
 
-#restart-footer a:hover, #restart-footer a:active{
+#restart-footer a:hover, #restart-footer a:active {
   color: red;
 }
 
