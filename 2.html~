@@ -8,13 +8,16 @@
 	</head>
 	<body>
 		<header>
-			<p id="title-header">Grocery Store</p>
+			<p id="title-header">Grocery Store: Stockroom</p>
 		</header>
 		<hr/>
 		<main>
 			<section id="narrative">
-				<p>You head toward the direction of the store where you believe the screams are coming from.</p>
-				<p><q>Help!</q>, someone says. Is it your manager? <q>Is anyone there? Help me!</q></p>
+				<p>You cautiously enter the stockroom. To your surprise, it is <em>completely empty</em>.</p>
+				<p>Not only are there no people... there are also no groceries of any kind!</p>
+				<p><q>Who could have done this?</q>, you think.</p>
+				<p>Suddenly, the lights go out... and you hear the screams again!</p>
+				<p><strong><q>Rarghh!!!</q></strong></p>
 			</section>
 			<section id="choices">
 				<p><a href="2.html"><em>Follow the screams.</em></a></p>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="author" content="Aaron Hobson" >
+    <title>Quarantined</title>
+  </head>
+  <body>
+    <header>
+      <p id="location">Grocery Store: Stockroom</p>
+    </header>
+    <hr>
+    <main>
+      <section id="narrative">
+        <p>You cautiously enter the dimly lit stockroom. To your surprise, it is <em>completely deserted</em>.</p>
+        <p>Not only are there no people... there are also no groceries of any kind!</p>
+        <p><q>Who could have done this?</q>, you ponder.</p>
+        <p>Suddenly you hear thumping, like heavy footsteps... then the eerie voice again!</p>
+        <p class="zombie-speech"><strong><q>Braaaaains...</q></strong></p>
+        <p>A gigantic zombie emerges from the shadows and lurches toward you!</p>
+      </section>
+      <section id="choices">
+        <p class="choice"><a href="run-from-zombie.html">Run away!</a></p>
+        <p class="choice"><a href="talk-to-zombie.html">Talk to the zombie.</a></p>				
+      </section>
+    </main>
+    <hr>
+    <footer>
+      <p id="title-footer"><cite>Quarantined</cite></p>		
+      <p id="restart-footer"><a href="index.html">Restart</a></p>
+    </footer>
+  </body>
+</html>
+

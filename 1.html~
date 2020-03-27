@@ -8,18 +8,19 @@
 	</head>
 	<body>
 		<header>
-			<p id="title-header">Grocery Store</p>
+			<p id="title-header">Grocery Store: Aisles</p>
 		</header>
 		<hr/>
 		<main>
 			<section id="narrative">
 				<p>As you place the final box of Rainbow Hoops<sup>TM</sup> on the grocery shelf, you wipe your brow and smile.</p>
 				<p>Another day at Labor Zhou's done. Time to go home and play some Sort Knight!</p>
-				<p>Then you hear them... <strong>The screams.</strong></p>
+				<p>Then you hear it... <strong>The eerie voice.</strong></p>
+				<p>It appears to be coming from the stockroom in the back of the store.</p>
 			</section>
 			<section id="choices">
-				<p><a href="2.html"><em>Follow the screams.</em></a></p>
-				<p><a href="3.html"><em>Ignore the screams.</em></a></p>				
+				<p><a href="2.html"><em>Investigate the stockroom.</em></a></p>
+				<p><a href="3.html"><em>Ignore the voice and go home.</em></a></p>				
 			</section>
 		</main>
 		<hr/>
@@ -29,4 +30,3 @@
 		</footer>
 	</body>
 </html>
-

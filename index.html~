@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" type="text/css" href="style.css" />
-		<title>Quarantined</title>
-	</head>
-	<body>
-		<header>
-			<h1>QUARANTINED</h2>
-		</header>
-		<main>
-			<img src="img/city.png" alt="silhouette of buildings" />
-			<p><cite>Silhouette of Buildings</cite> by <a href="https://unsplash.com/@masmeo">Anton Rusetsky</a></p>
-			<p><a href="1.html">Click here to start.</a></p>
-		</main>
-	<footer>
-		<hr/>
-		<p><small>Story by Jorge the Dog</small></p>
-	</footer>
-	</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="author" content="Aaron Hobson" >
+    <title>Quarantined</title>
+  </head>
+  <body>
+    <header>
+      <h1>QUARANTINED</h1>
+    </header>
+    <main>
+      <img src="city.png" alt="silhouette of buildings">
+      <p>Story by Jill Valentine</p>	
+      <p>Image by <a href="https://unsplash.com/@masmeo">Anton Rusetsky</a></p>					
+      <p><a href="intro.html">Click here to start.</a></p>
+    </main>
+    <hr>
+    <footer>
+      <p id="title-footer"><cite>Quarantined</cite></p>		
+      <p id="restart-footer"><a href="index.html">Restart</a></p>
+    </footer>
+  </body>
 </html>

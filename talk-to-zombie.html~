@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="author" content="Aaron Hobson" >
+    <title>Quarantined</title>
+  </head>
+  <body>
+    <header>
+      <p id="location">Grocery Store: Stockroom</p>
+    </header>
+    <hr/>
+    <main>
+      <section id="narrative">
+        <p>You decide to chat it up with the zombie. You've seen enough zombie movies to know that if it's going to eat you it'll happen regardless.</p>
+        <p class="zombie-speach"><strong><q>Braaaains... Raisin.... Braaaaaains...</q></strong></p>
+        <p>Of course! Raisin Brains<sup>TM</sup>, the cornerstone of any nutritious breakfast. You're all out, unfortunately.</p>
+        <p class="zombie-speach"><strong><q>Me... want... cereal!!!</q></strong></p>
+        <p>You explain the dilemma to Cereal Zombie.</p>
+        <p class="zombie-speach"><strong><q>Let me join your party... help me... find... RAISIN BRAAAAAINS<sup>TM</sup>... please...</q></strong></p>
+      </section>
+      <section id="choices">
+        <p class="choice"><a href="run-from-zombie.html">Recruit Cereal Zombie to your <q>party</q>.</a></p>
+        <p class="choice"><a href="talk-to-zombie.html">You got better things to do. Tell Cereal Zombie to take a hike!</a></p>				
+      </section>
+    </main>
+    <hr/>
+    <footer>
+      <p id="title-footer"><cite>Quarantined</cite></p>		
+      <p id="restart-footer"><a href="index.html">Restart</a></p>
+    </footer>
+  </body>
+</html>
